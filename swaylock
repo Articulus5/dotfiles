@@ -1,0 +1,8 @@
+show-failed-attempts
+image=/home/stse/Pictures/Wallpapers/Underwater_Ruins_Laxmonaut_1338268.png
+scaling=fill
+clock
+timestr=%I:%M %p
+datestr=%a %Y-%m-%d
+fade-in=1
+effect-blur=3x4
