@@ -15,6 +15,7 @@ xembedsniproxy > /dev/null 2>&1 &
 iwgtk -i -n > /dev/null 2>&1 &
 blueman-applet > /dev/null 2>&1 &
 
+systemctl --user start timidity.service
 systemctl --user start dropbox.service
 systemctl --user start onedrive_tray.service
 
