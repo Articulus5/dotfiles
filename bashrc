@@ -25,6 +25,8 @@ function nullify() {
 
 source /usr/share/doc/pkgfile/command-not-found.bash
 
+export EDITOR=vim
+
 # Make sure QT themes work
 export QT_QPA_PLATFORMTHEME=qt5ct
 
